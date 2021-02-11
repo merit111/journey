@@ -1,0 +1,14 @@
+<form>
+  <fieldset>
+    <legend>Name</legend>
+
+    <input type="name" id="Ebrima" name="Jallow">
+    <label for="Ebrima">Ebrima</label><br/>
+
+    <input type="Phone" id="+4915217922912" name="Phone">
+    <label for="Number">Number</label><br/>
+
+    <input type="email" id="ebrimaj604@gmail.com" name="email">
+    <label for="mothman">Mothman</label>
+  </fieldset>
+</form>
